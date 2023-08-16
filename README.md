@@ -2,13 +2,13 @@
   
   <div id="header" align="center">
   <div id="badges">
-     <a href="#">
+     <a href="www.linkedin.com/in/наталья-хомич-6693b9288" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
-     <a href="https://www.codewars.com/users/NatKhomich">
+     <a href="https://www.codewars.com/users/NatKhomich" target="_blank">
        <img src="https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
      </a>
-     <a href="https://t.me/Natalia_Khomich">
+     <a href="https://t.me/Natalia_Khomich" target="_blank">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
