@@ -12,7 +12,7 @@
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=NatKhomich&style=flat-square&color=blue" alt="counter"/>
+ 
   <h1>
    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Natalia, a junior frontend developer👩‍💻
   </h1>
@@ -72,6 +72,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatKhomich)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatKhomich)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://komarev.com/ghpvc/?username=NatKhomich&style=flat-square&color=blue" alt="counter"/>
 </div>
 
 <!--
