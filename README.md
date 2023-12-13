@@ -23,14 +23,14 @@
 <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47y9w5ofegy3rx8s37qdjpzsxdpsdlbtlg1e6go27w&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
 
-### :woman_technologist: About Me :
+### About Me :
 - ⚡ In my free time, I solve problems on Codewars, read tech articles and watch tech videos on Youtube
 
 - 💻 All of my projects are available at [https://github.com/NatKhomich?tab=repositories](https://github.com/NatKhomich?tab=repositories)
   
 - 📫 How to reach me **khomich061194@gmail.com**  
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
@@ -66,7 +66,7 @@
 </a>  
 </div>
 
-### :fire: My Stats :
+### My Stats :
 <div align="center"> 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatKhomich)](https://git.io/streak-stats)
