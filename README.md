@@ -12,10 +12,10 @@
        </a>
     </div>
     <h1>
-      Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Natalia 👩‍💻
+      Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Hello everyone! My name is Natalia 👩‍💻
     </h1>
     <h3>
-      A passionate Frontend Developer 🚀
+      I am a Frontend-developer! 🚀
     </h3>
   </div>
   
@@ -41,8 +41,9 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/plasticine/75/react.png" alt="React"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/75/typescript.png" alt="TypeScript"/></a>
   <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/75/material-ui.png" alt="Material UI"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/75/tailwindcss.png" alt="Tailwind CSS"/></a>
-  <a href="https://webpack.js.org/" target="_blank"><img src="https://img.icons8.com/color/75/webpack.png" alt="Webpack"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="75" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="Storybook" height="75" /></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/75/git.png" alt="Git"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/75/figma.png" alt="Figma"/></a>
 </div>
