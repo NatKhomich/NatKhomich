@@ -12,7 +12,7 @@
        </a>
     </div>
     <h1>
-      Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Hello everyone! My name is Natalia 👩‍💻
+      Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,  My name is Natalia 👩‍💻
     </h1>
     <h3>
       I am a Frontend-developer! 🚀
@@ -44,7 +44,6 @@
   <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="75" /></a>
 <a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="Storybook" height="75" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/75/git.png" alt="Git"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/75/figma.png" alt="Figma"/></a>
 </div>
 
@@ -69,11 +68,10 @@
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatKhomich)](https://git.io/streak-stats)
+ ### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=NatKhomich&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatKhomich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img src="https://komarev.com/ghpvc/?username=NatKhomich&style=flat-square&color=blue" alt="Profile View Counter"/>
   
 </div>
 
